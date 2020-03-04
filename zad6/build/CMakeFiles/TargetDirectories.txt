@@ -1,0 +1,7 @@
+/home/michalina/KolokwiumGit/Kolokwium/zad6/build/CMakeFiles/install/strip.dir
+/home/michalina/KolokwiumGit/Kolokwium/zad6/build/CMakeFiles/edit_cache.dir
+/home/michalina/KolokwiumGit/Kolokwium/zad6/build/CMakeFiles/Student.dir
+/home/michalina/KolokwiumGit/Kolokwium/zad6/build/CMakeFiles/list_install_components.dir
+/home/michalina/KolokwiumGit/Kolokwium/zad6/build/CMakeFiles/install/local.dir
+/home/michalina/KolokwiumGit/Kolokwium/zad6/build/CMakeFiles/rebuild_cache.dir
+/home/michalina/KolokwiumGit/Kolokwium/zad6/build/CMakeFiles/install.dir
